@@ -1,0 +1,18 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Paul Cromwell",
+	"icon": "https://micro.blog/paulcromwell/avatar.jpg",
+	"home_page_url": "https://paulcromwell.micro.blog/",
+	"feed_url": "https://paulcromwell.micro.blog/feed.json",
+	"items": [
+		
+			{
+				"id": "http://paulcromwell.micro.blog/2022/12/27/145641.html",
+				"title": "Ulysses - Initial post",
+				"content_html": "<p>Testing out Ulysses as publisher for micro.blog.</p>\n",
+				"content_text": "Testing out Ulysses as publisher for micro.blog. \n\n",
+				"date_published": "2022-12-27T15:56:41-04:00",
+				"url": "https://paulcromwell.micro.blog/2022/12/27/145641.html"
+			}
+	]
+}
